@@ -5,13 +5,20 @@
     <version>1.0.0</version>
     <title>HmtInput</title>
     <authors>Ali Raza</authors>
+    <license type="file">MIT-LICENCE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/HumansMetaTech/HmtInput/</projectUrl>
     <description>A User Input Tracking Tool</description>
-    <repository type="git" commit="bbb39de84e9141acea5b87eb513d2c2191824b6a" />
+    <tags>tracking usertracking inputtracking mousetracking keyboardtracking</tags>
+    <repository type="git" url="https://github.com/HumansMetaTech/HmtInput/" commit="b5bd84863156cf18e68f0e07712eee0347db8d94" />
     <dependencies>
       <group targetFramework=".NETStandard2.0" />
     </dependencies>
   </metadata>
   <files>
     <file src="C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\bin\Release\netstandard2.0\HmtInput.dll" target="lib\netstandard2.0\HmtInput.dll" />
+    <file src="C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\MIT-LICENCE.txt" target="\MIT-LICENCE.txt" />
+    <file src="C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\README.md" target="\README.md" />
   </files>
 </package>

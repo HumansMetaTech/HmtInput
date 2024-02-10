@@ -10,6 +10,8 @@
     <PackageProjectUrl>https://github.com/HumansMetaTech/HmtInput/</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/HumansMetaTech/HmtInput/</RepositoryUrl>
+    <PackageTags>tracking; usertracking; inputtracking; mousetracking; keyboardtracking;</PackageTags>
+    <PackageLicenseFile>MIT-LICENCE.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -17,6 +19,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="MIT-LICENCE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Update="README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
