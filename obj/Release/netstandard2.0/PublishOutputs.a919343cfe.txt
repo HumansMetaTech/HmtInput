@@ -1,0 +1,3 @@
+E:\HMT Source Codes\HmtInput\HmtInput\bin\Release\netstandard2.0\publish\HmtInput.dll
+E:\HMT Source Codes\HmtInput\HmtInput\bin\Release\netstandard2.0\publish\HmtInput.deps.json
+E:\HMT Source Codes\HmtInput\HmtInput\bin\Release\netstandard2.0\publish\HmtInput.pdb

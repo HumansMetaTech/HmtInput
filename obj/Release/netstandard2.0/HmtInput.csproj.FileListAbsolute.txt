@@ -1,0 +1,10 @@
+E:\HMT Source Codes\HmtInput\HmtInput\bin\Release\netstandard2.0\HmtInput.deps.json
+E:\HMT Source Codes\HmtInput\HmtInput\bin\Release\netstandard2.0\HmtInput.dll
+E:\HMT Source Codes\HmtInput\HmtInput\bin\Release\netstandard2.0\HmtInput.pdb
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.csproj.AssemblyReference.cache
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.AssemblyInfoInputs.cache
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.AssemblyInfo.cs
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.csproj.CoreCompileInputs.cache
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.dll
+E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.pdb

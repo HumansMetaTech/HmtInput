@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>HmtInput</Title>
+    <Authors>Ali Raza</Authors>
+    <Company>Humans Meta Tech</Company>
+    <Product>HmtInput</Product>
+    <Description>A User Input Tracking Tool</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+</Project>
