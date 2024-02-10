@@ -8,3 +8,14 @@ E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.Assemb
 E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.csproj.CoreCompileInputs.cache
 E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.dll
 E:\HMT Source Codes\HmtInput\HmtInput\obj\Release\netstandard2.0\HmtInput.pdb
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\bin\Release\netstandard2.0\HmtInput.deps.json
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\bin\Release\netstandard2.0\HmtInput.dll
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\bin\Release\netstandard2.0\HmtInput.pdb
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.csproj.AssemblyReference.cache
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.AssemblyInfoInputs.cache
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.AssemblyInfo.cs
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.csproj.CoreCompileInputs.cache
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.sourcelink.json
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.dll
+C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\obj\Release\netstandard2.0\HmtInput.pdb

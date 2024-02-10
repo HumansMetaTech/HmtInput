@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bAVV5qqLwKo5M2oh9dRQVdW0FzdTtoE9Lx8SA3WY+k8pN/xUjMpz1ssY/MIrQrEQgGlb42UT0ujkBzd2ku/inA==",
+  "dgSpecHash": "OK7RtPT3ZsmRinahKVU8BnUyqcjCwIOYYQvFIXfbeUkBA47EEJgHSeaA+dHYZU4gChgLQ7Tqs96zJFf9DUaHIg==",
   "success": true,
-  "projectFilePath": "E:\\HMT Source Codes\\HmtInput\\HmtInput\\HmtInput.csproj",
+  "projectFilePath": "C:\\Users\\Ali Raxa\\Desktop\\HMT Setup\\HmtInput\\HmtInput.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Raxa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ali Raxa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

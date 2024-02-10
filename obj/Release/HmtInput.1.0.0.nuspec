@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HmtInput</id>
+    <version>1.0.0</version>
+    <title>HmtInput</title>
+    <authors>Ali Raza</authors>
+    <description>A User Input Tracking Tool</description>
+    <repository type="git" commit="bbb39de84e9141acea5b87eb513d2c2191824b6a" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ali Raxa\Desktop\HMT Setup\HmtInput\bin\Release\netstandard2.0\HmtInput.dll" target="lib\netstandard2.0\HmtInput.dll" />
+  </files>
+</package>

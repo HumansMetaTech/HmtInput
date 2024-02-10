@@ -7,10 +7,20 @@
     <Company>Humans Meta Tech</Company>
     <Product>HmtInput</Product>
     <Description>A User Input Tracking Tool</Description>
+    <PackageProjectUrl>https://github.com/HumansMetaTech/HmtInput/</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/HumansMetaTech/HmtInput/</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <Optimize>True</Optimize>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

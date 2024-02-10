@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HMT Source Codes\\HmtInput\\HmtInput\\HmtInput.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Raxa\\Desktop\\HMT Setup\\HmtInput\\HmtInput.csproj",
       "projectName": "HmtInput",
-      "projectPath": "E:\\HMT Source Codes\\HmtInput\\HmtInput\\HmtInput.csproj",
+      "projectPath": "C:\\Users\\Ali Raxa\\Desktop\\HMT Setup\\HmtInput\\HmtInput.csproj",
       "packagesPath": "C:\\Users\\Ali Raxa\\.nuget\\packages\\",
-      "outputPath": "E:\\HMT Source Codes\\HmtInput\\HmtInput\\obj\\",
+      "outputPath": "C:\\Users\\Ali Raxa\\Desktop\\HMT Setup\\HmtInput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ali Raxa\\AppData\\Roaming\\NuGet\\NuGet.Config",
