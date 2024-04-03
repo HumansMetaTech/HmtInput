@@ -7,9 +7,9 @@ You can track the activity of the user using mouse and keyboard activity. This w
 
 ## How to Use it?
 
-First, you need to add a reference of the **HmtInput.dll** library to your project which is present in this location `\bin\Debug\netstandard2.0\HmtInput.dll`
+First, you need to add a reference of the **HmtInput.dll** library to your project which is present in this location `\bin\Debug\netstandard2.0\HmtInput.dll` or you can install this package using **Nuget Package Manager**.
 
-Then create a new class of your own and start by referring to different methods from the `HmtInput.dll` library.
+Then create a new class of your own and refer to different methods from the `HmtInput.dll` library.
 ```
 using HmtInput;
 using System;
@@ -45,7 +45,7 @@ public class User
     }
 }
 ```
-In the above code, an event `timer_Tick` is activated from the class constructor. Its interval is set to `0.1 Sec`. This means the timer will check the activity of the mouse or keyboard after every `0.1 Sec`. 
+In the above code, an event `timer_Tick` is activated from the class constructor. Its interval is set to `0.1 Sec`. This means the timer will check the mouse or keyboard activity after every `0.1 Sec`. 
 
 You can set the duration in the if condition from `1 Min` to any as you require.
 
